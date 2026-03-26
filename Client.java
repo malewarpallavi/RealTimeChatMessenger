@@ -31,7 +31,7 @@ class Client
         System.out.println("-------------------Client Messenger ready to Chat-------------------");
         System.out.println("--------------------------------------------------------------------");
 
-        String str1 = null, sABtr2 =  null;
+        String str1 = null, str2 =  null;
 
         while(!(str1 = bobj2.readLine()).equals("end"))
         {
